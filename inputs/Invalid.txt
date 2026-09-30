@@ -1,0 +1,3 @@
+2
+4,Bad Type
+0,Not Loaded
